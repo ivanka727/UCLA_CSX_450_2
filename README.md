@@ -1,5 +1,5 @@
 # UCLA_CSX_450_2
-## 1. The domain of the problem
+## 1. The domain of the problem1
 We are analyzing iris flowers and we want to develop a model that will be able to tell us the class of a newly found iris. The dataset contains 3 classes of 50 instances each, where each class refers to a type of iris plant. Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. Two of the three species were collected in Gape Peninsula all from the same pasture, and picked on the same day and measured at the same time by the same person with the same apparatus. 
 ## 2. A problem statement in which you clearly define2
 We're doing predictive modeling to use the available data to predict a new class of Iris. Basically the model inputs are column 1-4 (Sepal.Length, Sepal.Width, Petal.Length and Petal.Width) and it will output a class colomun 5 (Species). We have the dataset in our R analysis notebook. 
